@@ -10,15 +10,15 @@
     * email: tanner.manuel.barcelos@gmail.com
 <br>
 <br>
-### Here are my skills!
 
-    * React/Redux
-    * JavaScript (ES6^)
-    * HTML/CSS
-    * ExpressJS/Node.js for backend devlopment
-    * MongoDB (currenly diving into relational data stores)
-    * Bash / Linux command line
-    * Java
-    * C++
-    * Python
-    * Flask
+### Here are my skills!
+   * React/Redux
+   * JavaScript (ES6^)
+   * HTML/CSS
+   * ExpressJS/Node.js for backend devlopment
+   * MongoDB (currenly diving into relational data stores)
+   * Bash / Linux command line
+   * Java
+   * C++
+   * Python
+   * Flask
