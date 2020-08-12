@@ -10,6 +10,7 @@
     * [Email](tanner.manuel.barcelos@gmail.com)
 
 ### Technolgies and skills
+
 <br>
 
    | Technologies| Level of comfort |
