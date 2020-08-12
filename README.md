@@ -9,8 +9,10 @@
     * [LinkedIn](https://www.linkedin.com/in/tanner-barcelos-695619a1/)
     * [Email](tanner.manuel.barcelos@gmail.com)
 
+### Technolgies and skills
+<br>
 
-   | Technologies| Rating (1-5) |
+   | Technologies| Level of comfort |
    |-------------|--------------|
    | React/Redux |  ⭐️⭐️⭐️       |
    |  JavaScript |  ⭐️⭐️⭐️⭐️    |
