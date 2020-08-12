@@ -1,5 +1,6 @@
 ![ME](https://media-exp1.licdn.com/dms/image/C4D16AQECbPn4JkLKLw/profile-displaybackgroundimage-shrink_350_1400/0?e=1602720000&v=beta&t=9GIhNJ1BGrbyK9rK158RJFQqhFVE8dstYQl9hKyadgQ)
 <hr>
+
 - 🤓  I am a rising senior in computer science at CSUEB in Hayward, CA. My focus is on full stack software engineering. If you would like to see my work, see my portfolio linked in the next line
 
 - 📒  [portfolio](https://tannersportfolio.netlify.app)
