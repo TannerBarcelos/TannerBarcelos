@@ -11,7 +11,7 @@
 
 
    |         Skills  and technologies      |
-   |---------------------------------------|
+   |-------------|--------------|----------|
    | React/Redux |   JavaScript | HTML/CSS |
    |  ExpressJS  |     NodeJS   | MongoDB  |
    |  Bash       |     Java     |   C++    |
