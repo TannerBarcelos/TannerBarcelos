@@ -10,9 +10,16 @@
     * [Email](tanner.manuel.barcelos@gmail.com)
 
 
-   |         Skills  and technologies      |
-   |-------------|--------------|----------|
-   | React/Redux |   JavaScript | HTML/CSS |
-   |  ExpressJS  |     NodeJS   | MongoDB  |
-   |  Bash       |     Java     |   C++    |
-   |  Python     |     API      |   Git    |
+   | Technologies| Rating (1-5) |
+   |-------------|--------------|
+   | React/Redux |  ⭐️⭐️⭐️       |
+   |  JavaScript |  ⭐️⭐️⭐️⭐️    |
+   |   HTML/CSS  |  ⭐️⭐️⭐️⭐️    |
+   |  ExpressJS  |  ⭐️⭐️⭐️      |
+   |  NodeJS     |  ⭐️⭐️⭐️      |
+   |  MongoDB    |  ⭐️⭐️        |
+   |    Java     |  ⭐️⭐️⭐️⭐️    |
+   |     C++     |  ⭐️⭐️⭐️⭐️    |
+   |  Python     |  ⭐️⭐️⭐️⭐️    | 
+   |    API      |  ⭐️⭐️⭐️⭐️    | 
+   |      Git    |  ⭐️⭐️⭐️      |
