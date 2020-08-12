@@ -8,7 +8,10 @@
     * GitHub: https://github.com/TannerBarcelos?tab=repositories
     * LinkedIn: https://www.linkedin.com/in/tanner-barcelos-695619a1/
     * email: tanner.manuel.barcelos@gmail.com
-- ⚡ Here are my skills!
+<br>
+<br>
+### Here are my skills!
+
     * React/Redux
     * JavaScript (ES6^)
     * HTML/CSS
