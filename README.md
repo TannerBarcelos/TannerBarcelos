@@ -6,10 +6,10 @@
 - 💭  I’m currently learning full stack development and linux / shell scripting
 - 📂  I’m looking to collaborate on full stack projects
 - 📫  How to reach me:
-    * [GitHub](https://github.com/TannerBarcelos?tab=repositories)
+    * [GitHub](https://github.com/TannerBarcelos)
     * [LinkedIn](https://www.linkedin.com/in/tanner-barcelos-695619a1/)
     * [Email](tanner.manuel.barcelos@gmail.com)
-    * [portfolio](https://tannersportfolio.netlify.app)
+    * [Portfolio](https://tannersportfolio.netlify.app)
 
 ### Technolgies and skills
 <hr>
