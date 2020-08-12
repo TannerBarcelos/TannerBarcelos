@@ -1,8 +1,6 @@
 <!------------------------   Untitled design-2560x1440   ------------------------>
-<script type="text/javascript">
-var bannersnack_embed = {"hash":"bxhm017vq","width":2560,"height":1440,"t":1597268577,"userId":42115309,"responsive":true,"type":"html5"};
-</script>
-<script type="text/javascript" src="//cdn.bannersnack.com/iframe/embed.js"></script>
+<iframe src="//cdn.bannersnack.com/banners/bxhm017vq/embed/index.html?userId=42115309&t=1597268577" width="2560" height="1440" scrolling="no" frameborder="0" allowtransparency="true" allow="autoplay" allowfullscreen="true">
+</iframe>
 
 - 💻 I’m currently working on Fall semester and continuing my self development in the web technology space
 - 💭 I’m currently learning full stack development and linux / shell scripting
