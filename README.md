@@ -1,4 +1,8 @@
-### Hi there 👋, My name is Tanner Barcelos! I am a rising senior in computer science at CSU East Bay
+<!------------------------   Untitled design-2560x1440   ------------------------>
+<script type="text/javascript">
+var bannersnack_embed = {"hash":"bxhm017vq","width":2560,"height":1440,"t":1597268577,"userId":42115309,"responsive":true,"type":"html5"};
+</script>
+<script type="text/javascript" src="//cdn.bannersnack.com/iframe/embed.js"></script>
 
 - 💻 I’m currently working on Fall semester and continuing my self development in the web technology space
 - 💭 I’m currently learning full stack development and linux / shell scripting
@@ -8,7 +12,6 @@
     * GitHub: https://github.com/TannerBarcelos?tab=repositories
     * LinkedIn: https://www.linkedin.com/in/tanner-barcelos-695619a1/
     * email: tanner.manuel.barcelos@gmail.com
-<br>
 <br>
 
 ### Here are my skills!
