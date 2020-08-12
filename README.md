@@ -9,8 +9,9 @@
     * [LinkedIn](https://www.linkedin.com/in/tanner-barcelos-695619a1/)
     * [Email](tanner.manuel.barcelos@gmail.com)
 
-### Here are my skills!
 
+   |         Skills  and technologies      |
+   |---------------------------------------|
    | React/Redux |   JavaScript | HTML/CSS |
    |  ExpressJS  |     NodeJS   | MongoDB  |
    |  Bash       |     Java     |   C++    |
