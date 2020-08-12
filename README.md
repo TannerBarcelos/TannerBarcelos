@@ -1,5 +1,6 @@
 <iframe src="//cdn.bannersnack.com/banners/bxhm017vq/embed/index.html?userId=42115309&t=1597268577" width="2560" height="1440" scrolling="no" frameborder="0" allowtransparency="true" allow="autoplay" allowfullscreen="true"></iframe>
 
+
 - 💻 I’m currently working on Fall semester and continuing my self development in the web technology space
 - 💭 I’m currently learning full stack development and linux / shell scripting
 - 📂 I’m looking to collaborate on full stack projects
