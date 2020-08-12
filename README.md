@@ -10,6 +10,7 @@
     * [Email](tanner.manuel.barcelos@gmail.com)
 
 ### Here are my skills!
+
    | React/Redux |   JavaScript | HTML/CSS |
    |  ExpressJS  |     NodeJS   | MongoDB  |
    |  Bash       |     Java     |   C++    |
