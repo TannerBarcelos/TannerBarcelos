@@ -15,14 +15,14 @@
 
    | Technologies| Level of comfort |
    |-------------|--------------|
-   | React/Redux |  ⭐️⭐️⭐️       |
+   | React/Redux |  ⭐️⭐️⭐️⭐️       |
    |  JavaScript |  ⭐️⭐️⭐️⭐️    |
    |   HTML/CSS  |  ⭐️⭐️⭐️⭐️    |
    |  ExpressJS  |  ⭐️⭐️⭐️      |
    |  NodeJS     |  ⭐️⭐️⭐️      |
    |  MongoDB    |  ⭐️⭐️        |
    |    Java     |  ⭐️⭐️⭐️⭐️    |
-   |     C++     |  ⭐️⭐️⭐️⭐️    |
+   |     C++     |  ⭐️⭐️⭐️    |
    |  Python     |  ⭐️⭐️⭐️⭐️    | 
    |    API      |  ⭐️⭐️⭐️⭐️    | 
    |      Git    |  ⭐️⭐️⭐️      |
