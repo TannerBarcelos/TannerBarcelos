@@ -1,6 +1,3 @@
-![ME](https://media-exp1.licdn.com/dms/image/C4D16AQECbPn4JkLKLw/profile-displaybackgroundimage-shrink_350_1400/0?e=1602720000&v=beta&t=9GIhNJ1BGrbyK9rK158RJFQqhFVE8dstYQl9hKyadgQ)
-<hr>
-
 -  🤓   Senior in computer science at CSUEB in Hayward, CA Graduating May 2021. My focus is on Full-Stack Software Engineering.
 -  💻   I’m currently working on Fall semester and continuing my self development in the web technology space
 -  📂   I’m looking to collaborate on full stack projects
