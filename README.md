@@ -8,6 +8,7 @@
     * [Portfolio](https://tannersportfolio.netlify.app)
     
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TannerBarcelos&theme=react&show_icons=true)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TannerBarcelos)](https://github.com/anuraghazra/github-readme-stats)
 ### Technolgies and skills
 <hr>
 
