@@ -28,5 +28,6 @@
    
    
    ![coffee](https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif)
+   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TannerBarcelos)](https://github.com/anuraghazra/github-readme-stats)
    
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tannerbarcelos&layout=compact)](https://github.com/tannerbarcelos/github-readme-stats)
