@@ -7,7 +7,7 @@
     * [Email](tanner.manuel.barcelos@gmail.com)
     * [Portfolio](https://tannersportfolio.netlify.app)
     
-   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TannerBarcelos&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+ ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TannerBarcelos&theme=react&show_icons=true)
 ### Technolgies and skills
 <hr>
 
