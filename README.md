@@ -9,7 +9,7 @@
     
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TannerBarcelos&theme=react&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TannerBarcelos&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TannerBarcelos&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TannerBarcelos)](https://github.com/anuraghazra/github-readme-stats)
 ### Technolgies and skills
 <hr>
 
