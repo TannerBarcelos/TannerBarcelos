@@ -1,5 +1,5 @@
 -  🤓   Senior in computer science at CSUEB in Hayward, CA Graduating May 2021. My focus is on Full-Stack Software Engineering.
--  💻   I’m currently working on Fall semester and continuing my self development in the web technology space
+-  💻   I’m currently on winter break and continuing my self development in the web technology space
 -  📂   I’m looking to collaborate on full stack projects
 -  📫  How to reach me:
     * [GitHub](https://github.com/TannerBarcelos)
