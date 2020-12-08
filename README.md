@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TannerBarcelos&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 ```javascript
-console.log("Final semester graduate Focusing on Full-Stack Software Engineering");
+console.log("Final semester graduate focusing on Full-Stack Software Engineering");
 console.log("Working on full-stack web technology");
 constole.log("I’m looking to collaborate on full stack projects")
 ```
