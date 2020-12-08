@@ -6,7 +6,7 @@
 ```javascript
 console.log("Final semester graduate focusing on Full-Stack Software Engineering");
 console.log("Working on full-stack web technology");
-constole.log("I’m looking to collaborate on full stack projects")
+console.log("I’m looking to collaborate on full stack projects")
 ```
 
 -  How to reach me!:
