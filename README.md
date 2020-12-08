@@ -20,15 +20,15 @@ constole.log("I’m looking to collaborate on full stack projects")
 
    | Technologies| Level of comfort |
    |-------------|--------------|
-   | React/Redux |  ⭐️⭐️⭐️⭐️⭐️       |
+   | React/Redux |  ⭐️⭐️⭐️⭐️⭐️    |
    |  JavaScript |  ⭐️⭐️⭐️⭐️⭐️    |
    |   HTML/CSS  |  ⭐️⭐️⭐️⭐️⭐️    |
-   |  ExpressJS  |  ⭐️⭐️⭐️⭐️      |
-   |  NodeJS     |  ⭐️⭐️⭐️⭐️      |
-    |    Java     |  ⭐️⭐️⭐️⭐️    |
-       |  Python     |  ⭐️⭐️⭐️⭐️    | 
+   |  ExpressJS  |  ⭐️⭐️⭐️⭐️     |
+   |  NodeJS     |  ⭐️⭐️⭐️⭐️     |
+   |    Java     |  ⭐️⭐️⭐️⭐️    |
+   |  Python     |  ⭐️⭐️⭐️⭐️    | 
    |    API      |  ⭐️⭐️⭐️⭐️    | 
-   |  MongoDB    |  ⭐️⭐️⭐️       |
+   |  MongoDB    |  ⭐️⭐️⭐️     |
    |     C++     |  ⭐️⭐️⭐️    |
    |      Git    |  ⭐️⭐️⭐️      |
    |Algorithms   |⭐️⭐️⭐️       |
