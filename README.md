@@ -25,11 +25,11 @@ constole.log("I’m looking to collaborate on full stack projects")
    |   HTML/CSS  |  ⭐️⭐️⭐️⭐️⭐️    |
    |  ExpressJS  |  ⭐️⭐️⭐️⭐️      |
    |  NodeJS     |  ⭐️⭐️⭐️⭐️      |
-   |  MongoDB    |  ⭐️⭐️⭐️       |
-   |    Java     |  ⭐️⭐️⭐️⭐️    |
-   |     C++     |  ⭐️⭐️⭐️    |
-   |  Python     |  ⭐️⭐️⭐️⭐️    | 
+    |    Java     |  ⭐️⭐️⭐️⭐️    |
+       |  Python     |  ⭐️⭐️⭐️⭐️    | 
    |    API      |  ⭐️⭐️⭐️⭐️    | 
+   |  MongoDB    |  ⭐️⭐️⭐️       |
+   |     C++     |  ⭐️⭐️⭐️    |
    |      Git    |  ⭐️⭐️⭐️      |
    |Algorithms   |⭐️⭐️⭐️       |
    |Data Structures| ⭐️⭐️⭐️    |
