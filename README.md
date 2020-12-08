@@ -4,15 +4,16 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TannerBarcelos&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 ```javascript
-console.log(Senior in computer science at CSUEB in Hayward, CA Graduating May 2021. My focus is on Full-Stack Software Engineering);
-console.log(I’m currently on winter break and continuing my self development in the full-stack web technology space);
-constole.log(I’m looking to collaborate on full stack projects)
+console.log("Final semester graduate Focusing on Full-Stack Software Engineering");
+console.log("Working on full-stack web technology");
+constole.log("I’m looking to collaborate on full stack projects")
+```
+
 -  How to reach me!:
     * [GitHub](https://github.com/TannerBarcelos)
     * [LinkedIn](https://www.linkedin.com/in/tanner-barcelos-695619a1/)
     * [Email](tanner.manuel.barcelos@gmail.com)
     * [Portfolio](https://tannersportfolio.netlify.app)
-```
 
 ### Technolgies and skills
 <hr>
