@@ -28,6 +28,8 @@ console.log("I’m looking to collaborate on full stack projects")
    |    Java     |  ⭐️⭐️⭐️⭐️    |
    |  Python     |  ⭐️⭐️⭐️⭐️    | 
    |    API      |  ⭐️⭐️⭐️⭐️    | 
+   |  MySQL      |  ⭐️⭐️⭐️     |
+   |  Flask      |  ⭐️⭐️⭐️     |
    |  MongoDB    |  ⭐️⭐️⭐️     |
    |     C++     |  ⭐️⭐️⭐️    |
    |      Git    |  ⭐️⭐️⭐️      |
