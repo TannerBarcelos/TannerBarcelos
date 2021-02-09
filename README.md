@@ -3,15 +3,19 @@
 
 ```javascript
 console.log("Final semester graduate focusing on Full-Stack Software Engineering");
-console.log("Working on full-stack web technology");
-console.log("I’m looking to collaborate on full stack projects")
+```
+```python
+print('Working on full-stack web technology')
+```
+```java
+System.out.println("I’m looking to collaborate on full stack projects")
 ```
 
 -  How to reach me!:
     * [GitHub](https://github.com/TannerBarcelos)
     * [LinkedIn](https://www.linkedin.com/in/tanner-barcelos-695619a1/)
     * [Email](tanner.manuel.barcelos@gmail.com)
-    * [Portfolio](https://tannersportfolio.netlify.app)
+    * [Portfolio](https://tannerbarcelos.com)
 
 ### Technolgies and skills
 <hr>
