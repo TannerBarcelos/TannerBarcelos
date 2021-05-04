@@ -2,13 +2,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TannerBarcelos&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 ```javascript
-console.log("Final semester graduate focusing on Full-Stack Software Engineering");
+console.log("Computer Science graduate from CSU East Bay working as a Software Engineer @Scalable Commerce");
 ```
 ```python
 print('Working on full-stack web technology')
-```
-```java
-System.out.println("I’m looking to collaborate on full stack projects")
 ```
 
 -  How to reach me!:
