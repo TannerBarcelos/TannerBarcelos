@@ -1,17 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tanner Barcelos
 =======================================================================================================================================
 
-Full Stack Engineer. Creator. Builder.
-------------------
-
-I am a Full Stack Software Engineer working at Visa developing web-based platforms for Observability and Big Data Platforms. I have a passion for the web development as well as writing ✍🏼 about and teaching 👨🏼‍🏫 all about the web. On my free time, if I am not writing code, teaching or studying, I find myself golfing or out camping ⛺️
+I'm a Full Stack Engineer working at ![Visa](https://visa.com) developing web-based platforms for Observability and Big Data Platforms. I have a passion for the web development as well as writing ✍🏼 about and teaching 👨🏼‍🏫 all about the web. On my free time, if I am not writing code, teaching or studying, I find myself golfing or out camping ⛺️
  
-* 💼 I am currently working at [Visa](http://visa.com/) as a Senior Full Stack Software Engineer in the Data Platform
+* 💼 I am currently working at [Visa](http://visa.com/) as a Senior Full Stack Engineer in the Data Platform
 * 🌍  I'm based in the Silicon Valley 💻
 * 🖥️  See my portfolio at [tannerbarcelos.com](http://tannerbarcelos.com)
 * ✉️  You can contact me at [barcelos.m.tanner@gmail.com](mailto:barcelos.m.tanner@gmail.com)
 * 🧠  Currently I am learning Kubernetes, OpenTelemetry and Svelte(kit)
-* 🤝  I'm open to collaborating on building platforms in the Observability space
+* 🤝  I'm open to collaborating on platform development in the Observability space
 
 ### Skills
 
