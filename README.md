@@ -1,7 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tanner Barcelos
 =======================================================================================================================================
 
-I'm a Full Stack Engineer working at ![Visa](https://visa.com) developing web-based platforms for Observability and Big Data. I have a passion for Web Development and an interest in Observability. I also enjoy writing ✍🏼 about and teaching 👨🏼‍🏫 all about software engineering and the web. On my free time you will always find me golfing or out camping ⛺️
+I'm a Full Stack Engineer working at ![Visa](https://visa.com) developing web-based platforms for Observability and Big Data. I am passionate about Web Development, Containerization, Cloud & Observability.
+
+I also enjoy writing ✍🏼 about and teaching 👨🏼‍🏫 all about software engineering and the web. On my free time you will always find me golfing or out camping ⛺️
  
 * 💼 I am currently working at [Visa](http://visa.com/) as a Senior Full Stack Engineer in the Data Platform
 * 🌍  I'm based in the Silicon Valley 💻
