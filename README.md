@@ -4,14 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Engineer. Creator. Builder.
 ------------------
 
-I am a Full Stack Software Engineer working at Visa developing web-based platforms for APM and Big Data tools. I have a passion for the web as well as writing ✍🏼 about and teaching 👨🏼‍🏫 all about the web. On my free time, if I am not writing code, teaching or studying, I find myself golfing or out camping ⛺️
+I am a Full Stack Software Engineer working at Visa developing web-based platforms for Observability and Big Data Platforms. I have a passion for the web development as well as writing ✍🏼 about and teaching 👨🏼‍🏫 all about the web. On my free time, if I am not writing code, teaching or studying, I find myself golfing or out camping ⛺️
  
 * 💼 I am currently working at [Visa](http://visa.com/) as a Senior Full Stack Software Engineer in the Data Platform
-* 🌍  I'm based in San Jose, CA
-* 🖥️  See my portfolio at [tannerbarcelos.com](http://tannerbarcelos.com)
+* 🌍  I'm based in the Silicon Valley 💻
+* 🖥️  See my portfolio at [tannerbarcelos.com](http://tannerbarcelos.com)
 * ✉️  You can contact me at [barcelos.m.tanner@gmail.com](mailto:barcelos.m.tanner@gmail.com)
-* 🧠  I'm learning Kubernetes, Distributed Tracing and Svelte(kit)
-* 🤝  I'm open to collaborating on building platforms in the APM space
+* 🧠  Currently I am learning Kubernetes, OpenTelemetry and Svelte(kit)
+* 🤝  I'm open to collaborating on building platforms in the Observability space
 
 ### Skills
 
