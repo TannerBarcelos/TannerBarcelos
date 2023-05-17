@@ -9,7 +9,7 @@ I also enjoy writing ✍🏼 and teaching 👨🏼‍🏫 about the web and late
 * 🌍  I'm based in Silicon Valley 💻
 * 🖥️  See my portfolio at [tannerbarcelos.com](http://tannerbarcelos.com)
 * ✉️  You can contact me at [barcelos.m.tanner@gmail.com](mailto:barcelos.m.tanner@gmail.com)
-* 🧠  Currently I am learning Golang and NextJS
+* 🧠  Currently I am learning about Big Data, Distributed Systems and Python / Go and continuing to perfect my frontend and backend core fullstack skills
 * 🤝  I'm open to collaborating on product development for observability, productivity & FinTech platforms
 
 #### Technology Skills
@@ -28,6 +28,6 @@ I also enjoy writing ✍🏼 and teaching 👨🏼‍🏫 about the web and late
 </p>
 
 
-#### Find Me
+#### Reach Out!
 
 <p align="left"> <a href="https://www.github.com/tannerbarcelos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://tannerbarcelos.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tannerbarcelos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/technotanner" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
