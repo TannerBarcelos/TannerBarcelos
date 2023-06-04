@@ -5,11 +5,11 @@ I'm a Full Stack Software Engineer working at [Visa](https://visa.com) developin
 
 I also enjoy writing ✍🏼 and teaching 👨🏼‍🏫 about the web and latest software engineering trends. On my free time you will find me golfing or out camping ⛺️
  
-* 💼  I currently work at [Visa](http://visa.com/) as a Senior Full-Stack Software Engineer in the Data Platform Organization
+* 💼  I currently work at [Visa](http://visa.com/) as a Senior Full-Stack Software Engineer in the Data & AI Platform Organization
 * 🌍  I'm based in Silicon Valley 💻
 * 🖥️  See my portfolio at [tannerbarcelos.com](http://tannerbarcelos.com)
 * ✉️  You can contact me at [barcelos.m.tanner@gmail.com](mailto:barcelos.m.tanner@gmail.com)
-* 🧠  Currently I am learning about Big Data, Distributed Systems and Python / Go and continuing to perfect my frontend and backend core fullstack skills
+* 🧠  Currently I am learning about Big Data & Distributed Systems while developing a new Data Observability Platform on the web
 * 🤝  I'm open to collaborating on product development for observability, productivity & FinTech platforms
 
 #### Technology Skills
