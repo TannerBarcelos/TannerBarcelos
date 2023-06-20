@@ -1,16 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tanner Barcelos
 =======================================================================================================================================
 
-I'm a Full Stack Software Engineer working at [Visa](https://visa.com) developing web platforms for Observability & Big Data. I am passionate about Web Development, Observability and Distributed Computing.
+I'm a Full Stack Software Engineer working at [Visa](https://visa.com) building Visa's next generation Data & AI Platform. I'm passionate about Big Data, Data Observability and Distributed Systems
 
-I also enjoy writing ✍🏼 and teaching 👨🏼‍🏫 about the web and latest software engineering trends. On my free time you will find me golfing or out camping ⛺️
+I enjoy writing ✍🏼 and teaching 📚 all about Data. On my free time you will find me out on the golf course or camping ⛺️
  
 * 💼  I currently work at [Visa](http://visa.com/) as a Senior Full-Stack Software Engineer in the Data & AI Platform Organization
 * 🌍  I'm based in Silicon Valley 💻
 * 🖥️  See my portfolio at [tannerbarcelos.com](http://tannerbarcelos.com)
 * ✉️  You can contact me at [barcelos.m.tanner@gmail.com](mailto:barcelos.m.tanner@gmail.com)
-* 🧠  Currently I am learning about Big Data & Distributed Systems while developing a new Data Observability Platform on the web
-* 🤝  I'm open to collaborating on product development for observability, productivity & FinTech platforms
+* 🧠  Currently I am learning about core Big Data, Distributed Systems, Data Observability and Streaming Analytics
+* 🤝  I'm open to collaborating on Data Viz projects for both Data Analytics and Data Observability
 
 #### Technology Skills
 <p align="left">
