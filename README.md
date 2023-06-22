@@ -9,8 +9,8 @@ I enjoy writing ✍🏼 and teaching 📚 all about Data. On my free time you wi
 * 🌍  I'm based in Silicon Valley 💻
 * 🖥️  See my portfolio at [tannerbarcelos.com](http://tannerbarcelos.com)
 * ✉️  You can contact me at [barcelos.m.tanner@gmail.com](mailto:barcelos.m.tanner@gmail.com)
-* 🧠  Currently I am learning about core Big Data, Distributed Systems, Data Observability and Streaming Analytics
-* 🤝  I'm open to collaborating on Data Viz projects for both Data Analytics and Data Observability
+* 🧠  Currently I am learning about Big Data and Distributed Systems
+* 🤝  I'm open to collaborating on Data Viz projects for both Data Analytics and Processing
 
 #### Technology Skills
 <p align="left">
