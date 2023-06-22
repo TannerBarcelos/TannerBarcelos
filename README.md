@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tanner Barcelos
 =======================================================================================================================================
 
-I'm a Full Stack Software Engineer working at [Visa](https://visa.com) building Visa's next generation Data & AI Platform. I'm passionate about Big Data, Data Observability and Distributed Systems
+I'm a Full Stack Software Engineer working at [Visa](https://visa.com) building Visa's next generation Data & AI Platform. I'm passionate about Big Data, Web Development (focusing on Data Viz and APIs) and Distributed Systems
 
 I enjoy writing ✍🏼 and teaching 📚 all about Data. On my free time you will find me out on the golf course or camping ⛺️
  
