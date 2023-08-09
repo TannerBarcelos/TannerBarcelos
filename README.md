@@ -20,4 +20,4 @@ On my free time you will find me out on the golf course or camping ⛺️
 * 🖥️  See my portfolio at [tannerbarcelos.com](http://tannerbarcelos.com)
 * ✉️  You can contact me at [barcelos.m.tanner@gmail.com](mailto:barcelos.m.tanner@gmail.com)
 * 🧠  Currently I am learning about Big Data, Distributed Systems & Stream Processing
-* 🤝  I'm open to collaborating on Data Visa, Productivity and web platform related projects
+* 🤝  I'm open to collaborating on building amazing web platforms
