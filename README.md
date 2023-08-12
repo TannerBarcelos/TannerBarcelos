@@ -3,7 +3,7 @@ Tanner Barcelos
 
 I'm a Full Stack Software Engineer working at [Visa](https://visa.com) building Visa's next generation Data & AI Platform. 
 
-I am an experienced Full Stack Software Engineer with a deep passion for Web Development. My primary goal is to bridge the gap between complex data and end users by creating interactive web experiences that make information accessible and engaging.
+I am an experienced Full Stack Software Engineer with a deep passion for the Web. My primary goal is to bridge the gap between complex data and end users by creating interactive web experiences that make information accessible and engaging.
 
 Not only do I enjoy making data experiences better, but I am very passionate about productivity and I enjoy building applications that make life easier and more engaging.
 
