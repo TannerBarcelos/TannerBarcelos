@@ -1,11 +1,15 @@
 Tanner Barcelos
 =======================================================================================================================================
 
-I'm a Full Stack Software Engineer at [Visa](https://visa.com) building products and platform services for Data & AI.
+I'm a Full Stack Software Engineer at [Visa](https://visa.com) building and designing products and platform services for Data & AI.
 
-I am passionate about web development, big data, distributed systems, and design.
+As a Senior Full Stack Software Engineer at Visa Data & AI Platform, I bring a dynamic blend of skills and experiences, specializing in creating cutting-edge software solutions. My expertise lies in developing web platforms that enhance data observability, utilizing a tech stack that includes React, Redux, ChartJS, MaterialUI, Figma, and more.
 
-Throughout my career, I have honed my front-end and back-end development skills, allowing me to tackle a wide range of projects and deliver comprehensive solutions
+I have played a pivotal role in transforming user experience, particularly in designing UX for AI-powered business intelligence and an admin UI for Visa fraud detection platform.
+
+Prior to Visa, my tenure at Scalable Commerce involved leading a team in CRM platform development and migrating web applications to containerized AWS workloads, where I significantly improved customer service efficiency and retention rates.
+
+My technical proficiency spans across a broad spectrum, from frontend technologies like HTML, CSS, React, NextJS, to backend systems using NodeJS, Express, and various databases. Additionally, I possess strong skills in DevOps, utilizing tools like Docker, Kubernetes, and AWS.
 
 ✨ I enjoy writing ✍🏼 and teaching 📚 all about the Web, Databases, Big Data, DevOps and Distributed Systems.
 
